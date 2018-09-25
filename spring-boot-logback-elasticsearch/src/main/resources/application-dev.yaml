@@ -1,0 +1,8 @@
+server: 
+  port: 8081
+
+logging:
+  config: classpath:log/logback.xml
+  
+elasticsearch:
+  url: http://elastic:111111@127.0.0.1:9200/_bulk
