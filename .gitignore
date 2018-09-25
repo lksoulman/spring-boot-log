@@ -1,0 +1,4 @@
+/.classpath
+/spring-boot-logback-elasticsearch/*.project
+/spring-boot-logback/.project
+/.project
